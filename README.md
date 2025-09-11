@@ -25,6 +25,7 @@ This repository contains solutions to a wide range of algorithm and data structu
 - [1792. Maximum Average Pass Ratio](1792%20-%20maxAverageRatio/README.md)
 - [2037. Minimum Number of Moves to Seat Everyone](2037%20-%20MovingSeats/README.md)
 - [2327. Number of People Aware of a Secret](2327%20-%20peopleAwareOfSecret/README.md)
+- [2785. Sort Vowels in a String](2785%20-%20sortVowels/README.md)
 - [3021. Alice and Bob Playing Flower Game](3021%20-%20FlowerGame/README.md)
 - [3025. Find the Number of Ways to Place People I](3025%20-%20numberOfPairs/README.md)
 - [3027. Find the Number of Ways to Place People II](3027%20-%20numberOfPairs/README.md)
