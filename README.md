@@ -21,6 +21,7 @@ This repository contains solutions to a wide range of algorithm and data structu
 - [945. Minimum Increment to Make Array Unique](0945-UniqueArrayIncrements/README.md)
 - [1052. Grumpy Bookstore Owner](1052-GrumpyBookstoreOwner/README.md)
 - [1122. Relative Sort Array](1122-RelativeSortArray/README.md)
+- [1304. Find N Unique Integers Sum up to Zero](1304-sumZero/README.md)
 - [1317. Convert Integer to the Sum of Two No-Zero Integers](1317-getNoZeroIntegers/README.md)
 - [1552. Magnetic Force Between Two Balls](1552-MaxMagneticForce/README.md)
 - [1733. Minimum Number of People to Teach](1733-minimumTeachings/README.md)
