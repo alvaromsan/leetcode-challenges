@@ -33,4 +33,5 @@ This repository contains solutions to a wide range of algorithm and data structu
 - [3025. Find the Number of Ways to Place People I](3025-numberOfPairs/README.md)
 - [3027. Find the Number of Ways to Place People II](3027-numberOfPairs/README.md)
 - [3136. Valid Word](3136-ValidWord/README.md)
+- [3227. Vowels Game in a String](3227-VowelsGame/README.md)
 - [3516. Find Closest Person](3516-findClosestPerson/README.md)
