@@ -26,6 +26,7 @@ This repository contains solutions to a wide range of algorithm and data structu
 - [1552. Magnetic Force Between Two Balls](1552-MaxMagneticForce/README.md)
 - [1733. Minimum Number of People to Teach](1733-minimumTeachings/README.md)
 - [1792. Maximum Average Pass Ratio](1792-maxAverageRatio/README.md)
+- [1935. Maximum Number of Words You Can Type](1935-canBeTypedWords/README.md)
 - [2037. Minimum Number of Moves to Seat Everyone](2037-MovingSeats/README.md)
 - [2327. Number of People Aware of a Secret](2327-peopleAwareOfSecret/README.md)
 - [2785. Sort Vowels in a String](2785-sortVowels/README.md)
@@ -35,3 +36,4 @@ This repository contains solutions to a wide range of algorithm and data structu
 - [3136. Valid Word](3136-ValidWord/README.md)
 - [3227. Vowels Game in a String](3227-VowelsGame/README.md)
 - [3516. Find Closest Person](3516-findClosestPerson/README.md)
+- [3541. Find Most Frequent Vowel and Consonant](3541-maxFreqSum/README.md)
